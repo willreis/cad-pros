@@ -10,7 +10,7 @@
                     <li class="active">
                         <a class="has-arrow" href="index.html">
                                 <span class="educate-icon educate-professor icon-wrap"></span>
-                                <span class="mini-click-non">Cadastro</span>
+                                <span class="mini-click-non">Cadastros</span>
                             </a>
                         <ul class="submenu-angle" aria-expanded="false">
                             <li><a title="Dashboard v.1" href="#"><span class="mini-sub-pro">Prospect</span></a></li>
