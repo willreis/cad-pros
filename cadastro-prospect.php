@@ -1,3 +1,7 @@
+<?php
+session_start();
+
+?>
 <!doctype html>
 <!-- HEAD -->
 <?php include('head.php');?>
@@ -20,7 +24,7 @@
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <div class="paddingleft50 top50">
                     <h1>Cadastro Prospect</h1>
-                    <form action="#" class="paddingtop50 paddingbottom50">
+                    <form action="envia-cad-prosp.php" method="post" class="paddingtop50 paddingbottom50">
                         <div class="form-group-inner">
                             <label>NOME</label>
                             <input type="text" name="nomeProspect" class="form-control" placeholder="Nome" />
